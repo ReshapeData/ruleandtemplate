@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1685955975611.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FFB72DB7",
+    "lastKnownWriteTime" : 1686532208,
+    "last_content_update" : 1686532208,
+    "path" : "~/app/liudan/ruleandtemplate/01_row_body.R",
+    "project_path" : "01_row_body.R",
+    "properties" : {
+        "cursorPosition" : "33,57",
+        "scrollLine" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

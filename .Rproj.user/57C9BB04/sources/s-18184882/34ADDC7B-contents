@@ -23,8 +23,7 @@ shinyUI(dashboardPage(skin = "blue",
                     
                     #ui.body----
                     dashboardBody(
-                      workAreaSetting,
-                      tsui::use_pop()
+                      workAreaSetting
                     )
 )
 )
